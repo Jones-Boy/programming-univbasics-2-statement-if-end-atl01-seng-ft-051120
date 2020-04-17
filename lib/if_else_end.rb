@@ -8,8 +8,3 @@ end
 puts "Code after 
 if...end"
 
-if true
-  puts "Even!"
-else
-  puts "Odd!"
-end
